@@ -1,5 +1,7 @@
 # Append an element to an array
 
+_*Moved this code to jaxelr/Benchmarks*_
+
 I needed to benchmark an addition of an element to an array using multiple scenarios [as described on this article](https://www.techiedelight.com/add-new-elements-array-csharp/).
 
 ``` ini
